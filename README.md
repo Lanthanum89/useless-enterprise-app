@@ -29,7 +29,7 @@ Finally submit… and get a failure toast anyway
 It’s basically every bad internal system distilled into one app.
 
 ## Code
-{% embed https://github.com/Lanthanum89/useless-enterprise-app.git %}
+https://github.com/Lanthanum89/useless-enterprise-app.git
 
 Everything behaves exactly as designed, which is the problem.
 
