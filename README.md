@@ -3,6 +3,9 @@
 ## What I Built
 I built a Useless Enterprise App™ that looks dangerously close to something you’d be forced to use at work… but is entirely designed to waste your time.
 
+<img width="2669" height="1897" alt="image" src="https://github.com/user-attachments/assets/f97e5d17-fbad-4832-bd43-96072072f4d0" />
+
+
 It’s a React-based “Business Request Alignment Interface” that simulates a full corporate workflow, complete with forms, approvals, dashboards, and system feedback. None of it actually achieves anything.
 
 Key features (all technically functional, strategically pointless):
